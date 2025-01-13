@@ -1,3 +1,7 @@
 # OnlineMobileRechargePortal
 
 I completed a web development project, building a UI for a local business using HTML, CSS and JS. The aim of the project was to build a responsive online recharge portal website and let the customers know about the services and prices of the services. It additionally displayed various newly added plans and provided various offers to the target customer.I tried my best efforts to develop a website that not only remained attractive to the target customer’s eyes but also remained very responsive and true to core values which I wanted to implement.
+
+### Usage
+
+Just copy the pathname of login.html page and open in your browser. Follow with entering username and phone number. You then enter my mobile recharge portal website.
